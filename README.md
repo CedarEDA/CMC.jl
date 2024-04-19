@@ -6,7 +6,7 @@ Authors include Auburn University, Arizona State University, Delft University of
 
 ## Provided Models
 
-- **ASM-HEMT** - Robust Surface-Potential-Based Model for Gallium Nitride (GaN) High Electron Mobility Transistors (v101)
+- **ASM-HEMT** - Surface-Potential-Based Model for Gallium Nitride (GaN) High Electron Mobility Transistors (v101)
 - **BSIM-BULK** - Unified Bulk MOSFET Compact Model, previously BSIM6 (v106)
 - **BSIM-CMG** - Unified FinFET Compact Model for Multi-Gate Transistors (v107, v110)
 - **BSIM-IMG** - Physical, Scalable Core Model for Fully-Depleted Silicon-on-Insulator (FDSOI) devices (v102)
@@ -15,10 +15,10 @@ Authors include Auburn University, Arizona State University, Delft University of
 - **HiSIM2** - Hiroshima University STARC IGFET Model (v3.11)
 - **HiSIM-HV** - Hiroshima University STARC IGFET Model for High-Voltage Transistors (v2.50)
 - **HiSIM-SOI** - Hiroshima University STARC IGFET Model for Silicon-on-Insulator Devices (v1.40)
-- **HiSIM-SOTB** - Hiroshima University STARC IGFET Model for Silicon-On-Thin-Buried-Oxide (SOTB) Transistors (v1.20)
+- **HiSIM-SOTB** - Hiroshima University STARC IGFET Model for Silicon-On-Thin-Buried-Oxide (SOTB) Devices (v1.20)
 - **Mextran** - Most EXquisite TRAnsistor Model for Bipolar Devices (v505.00)
 - **MOSVAR** - Compact Model for MOS Varactors (v1.3.0)
-- **MSVG** - MVS-G-HV GaN HEMT Model-Based Self-Consistent Transport/Capacitance Models for HV applications (v1.0.0)
+- **MSVG** - MVS-G-HV GaN HEMT Model-Based Self-Consistent Transport/Capacitance Models for HV (v1.0.0)
 - **R2** - CMC Nonlinear Two-Terminal Resistor Model (v1.0.1)
 - **R3** - CMC Nonlinear Three-Terminal Resistor Model (v1.1.0)
 
