@@ -1,0 +1,9 @@
+This package provides CMC model support for Cedar EDA,
+but is not part of the Cedar EDA platform. Instead, it redistributes
+a number of model files provided by the Compact Modeling Coalition (CMC).
+Each model is provided under its own license terms.
+
+To the extent that copyrightable changes were made during the repackaging
+process, they are hereby made available, at your option, under either
+1) The terms of upstream license applicable to the modified files, or
+2) The MIT license (see LICENSE.MIT for license terms)

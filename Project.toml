@@ -1,0 +1,6 @@
+name = "CMC"
+uuid = "db13d295-e716-48aa-bdca-f6cce3d4ecc6"
+version = "0.3.0"
+
+[deps]
+CedarSim = "9075980a-f0c7-46d2-945a-cc5bead5ad4a"
